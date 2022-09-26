@@ -1,0 +1,31 @@
+body {
+    width: 70%;
+    padding-left: 15%;
+}
+
+h1, h2, h3 {
+    font-family: "Arial";
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table {
+    
+    border: 1px solid black;
+    
+    
+ }
+th, td {
+        border: 1px solid black;
+     }
+ figure {
+    font-style: italic;
+ }
+
+ .leftfoto{
+    float:right;
+    }
